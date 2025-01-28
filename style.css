@@ -1,0 +1,52 @@
+ {
+		margin: 0px;
+		padding: 0px;
+
+	}
+					
+
+html, body {
+
+		  margin: 0;
+		  height: 100%;
+		  text-align: center;
+		  background-image: url(https://th.bing.com/th/id/OIP.9vjoJ2Yv1_sQrtbyUsp7_gHaFV?w=1380&h=995&rs=1&pid=ImgDetMain);
+		  background-size: cover;
+		  height: 100%;
+		  background-repeat: repeat;
+
+
+
+		}
+.Box {
+	background-color: rgb(255,227,188, 0.8) ;
+	margin: 50px;
+	border-radius: 10px;
+	font-family: Newsreader;
+}
+
+hr {
+      border: 3px dotted #000000;
+}
+
+.given {
+	margin: 20px;
+	border-radius: 10px;
+	padding: 20px;
+	text-align: justify;
+	color: black;
+}
+
+.color {
+	color: whitesmoke;
+}
+
+img {
+	border-radius: 18px;
+	margin: 10px;
+}
+
+.Tempconver {
+	color: black;
+	font-family: Akaya Kanadaka;
+}
